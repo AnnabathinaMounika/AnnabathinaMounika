@@ -1,7 +1,6 @@
 ### Hi there,This is the place where I learn new things 👋 👩‍🦱
 
 This is Mounika Annabathina,Northwest Missouri State University grad with a passion for cloud computing and DevOps. Collaborating and innovating on GitHub to sharpen my skills. I am excited to learn github and work on it👩‍🎓
-
 -👯 I’m looking to collaborate with Github Experts.
 -🔭 I’m currently focused on Streamlining DevOps workflows at KDex Global and enhancing CI/CD pipelines for seamless cloud deployments.
 -🌱 I’m currently learning Advanced techniques in Kubernetes, Docker, and cloud infrastructure management.
